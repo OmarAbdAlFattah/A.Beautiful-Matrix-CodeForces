@@ -1,5 +1,7 @@
 # A.Beautiful-Matrix-CodeForces
+
 My Answer for Beautiful Matrix Problem on Code Forces: 
+
 
 You've got a 5 × 5 matrix, consisting of 24 zeroes and a single number one. Let's index the matrix rows by numbers from 1 to 5 from top to bottom, let's index the matrix columns by numbers from 1 to 5 from left to right. In one move, you are allowed to apply one of the two following transformations to the matrix:
 
